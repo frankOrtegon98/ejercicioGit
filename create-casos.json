@@ -1,0 +1,55 @@
+{
+    "name": "create.case.cr",
+    "eventId": "84fafd8f-d48c-4f1a-af7a-fd4a2dd34d5a",
+    "data": {
+        "header": {
+            "transactionId": "a3ff1c31-168c-4e0b-9e6e-31b578acc83a",
+            "applicationId": "oms-case-crm",
+            "hostname": "OMS",
+            "user": "MAO",
+            "transactionDate": 1653667157938,
+            "esb": null,
+            "errors": [
+                {
+                    "code": "0",
+                    "type": "Ejecucion exitosa",
+                    "description": null
+                }
+            ]
+        },
+        "data": {
+            "tipoDocumento": "C.C",
+            "numeroDocumento": "2_1068764454",
+            "nombre": "Frank Ortegon Palomino",
+            "apellidos": "Frank Ortegon Palomino",
+            "telefono": null,
+            "telefonoCelular": "+573144583564",
+            "correoElectronico": "frank.ortegon@sofka.com.co",
+            "ciudadCliente": "Bello",
+            "direccion": "calle 25 #74-63null106D",
+            "barrio": "Bello",
+            "marcaConcurrencia": "EXITO.COM",
+            "categoriaECommerce": "Marketplace",
+            "vendedor": "12390",
+            "clasificacion": "Cancelaciones/Devoluciones",
+            "subClasificacion": "Cancelación",
+            "tipo": "Petición/Queja",
+            "detalle": "No lo quiero/ No lo necesito",
+            "orderId": "1235001349746",
+            "producto": [
+                {
+                    "itemdId" : "49635",
+                    "fecha" : "2022-05-26",
+                    "quantity" : "1"
+                }
+            ],
+            "marcaResponsable": null,
+            "ciudadResponsable": null,
+            "dependenciaResponsable": null,
+            "descripcion": "No",
+            "medioRespuesta": "Correo",
+            "vmi": false,
+            "origenCaso": "OMS"
+        }
+    }
+}
